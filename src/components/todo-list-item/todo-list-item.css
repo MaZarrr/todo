@@ -1,0 +1,12 @@
+.todo-list-item {
+    
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.important {
+    color: tomato;
+    font-weight: bold;
+}
